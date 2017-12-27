@@ -31,3 +31,16 @@ pre {
 a {
   color:black;
 }
+
+code {
+  color:sliver; 
+}
+
+ui {
+  
+  li {
+    border-color:red;
+    border-radius:28px;
+    transsition-durationL 0.8s;
+  }
+  
