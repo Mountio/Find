@@ -14,7 +14,7 @@ border-color: #052682;
 color:#052682;
 transition-duration: 0.4s;
 }
-button::hover {
+button:hover {
 background-color: #052682;
 border-color: #a5bdff;
 color: #a5bdff;
