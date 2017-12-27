@@ -1,2 +1,2 @@
 # Find
-A Blue Theme 
+A Multi-color theme
