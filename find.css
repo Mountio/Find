@@ -19,3 +19,15 @@ background-color: #052682;
 border-color: #a5bdff;
 color: #a5bdff;
 }
+
+a:hover {
+  color:white; 
+}
+
+pre {
+  color:black;
+}
+
+a {
+  color:black;
+}
